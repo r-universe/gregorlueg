@@ -5,12 +5,12 @@
 [submodule "bixverse"]
 	path = bixverse
 	url = https://github.com/GregorLueg/bixverse
-	branch = *release
+	branch = v0.4.10
 [submodule "bixverse.plots"]
 	path = bixverse.plots
 	url = https://github.com/GregorLueg/bixverse.plots
-	branch = *release
+	branch = v0.2.4
 [submodule "manifoldsR"]
 	path = manifoldsR
 	url = https://github.com/GregorLueg/manifoldsR
-	branch = *release
+	branch = v0.2.11
