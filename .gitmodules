@@ -1,4 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/gregorlueg/gregorlueg.r-universe.dev
 	branch = HEAD
+[submodule "bixverse"]
+	path = bixverse
+	url = https://github.com/GregorLueg/bixverse
+	branch = *release
+[submodule "bixverse.plots"]
+	path = bixverse.plots
+	url = https://github.com/GregorLueg/bixverse.plots
+	branch = *release
+[submodule "manifoldsR"]
+	path = manifoldsR
+	url = https://github.com/GregorLueg/manifoldsR
+	branch = *release
