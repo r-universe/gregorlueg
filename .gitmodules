@@ -9,7 +9,7 @@
 [submodule "bixverse.plots"]
 	path = bixverse.plots
 	url = https://github.com/GregorLueg/bixverse.plots
-	branch = v0.2.4
+	branch = v0.2.5
 [submodule "genewalkR"]
 	path = genewalkR
 	url = https://github.com/GregorLueg/genewalkR
