@@ -10,6 +10,10 @@
 	path = bixverse.plots
 	url = https://github.com/GregorLueg/bixverse.plots
 	branch = v0.2.4
+[submodule "genewalkR"]
+	path = genewalkR
+	url = https://github.com/GregorLueg/genewalkR
+	branch = *release
 [submodule "manifoldsR"]
 	path = manifoldsR
 	url = https://github.com/GregorLueg/manifoldsR

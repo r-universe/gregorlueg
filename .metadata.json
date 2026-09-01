@@ -10,5 +10,9 @@
   {
     "package": "bixverse.plots",
     "releasetag": true
+  },
+  {
+    "package": "genewalkR",
+    "releasetag": true
   }
 ]
