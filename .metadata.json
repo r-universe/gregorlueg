@@ -12,6 +12,10 @@
     "releasetag": true
   },
   {
+    "package": "bixverse.gpu",
+    "releasetag": true
+  },
+  {
     "package": "genewalkR",
     "releasetag": true
   }

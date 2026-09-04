@@ -6,6 +6,10 @@
 	path = bixverse
 	url = https://github.com/GregorLueg/bixverse
 	branch = v0.5.0
+[submodule "bixverse.gpu"]
+	path = bixverse.gpu
+	url = https://github.com/GregorLueg/bixverse.gpu
+	branch = *release
 [submodule "bixverse.plots"]
 	path = bixverse.plots
 	url = https://github.com/GregorLueg/bixverse.plots
