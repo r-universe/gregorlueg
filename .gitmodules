@@ -9,11 +9,11 @@
 [submodule "bixverse.gpu"]
 	path = bixverse.gpu
 	url = https://github.com/GregorLueg/bixverse.gpu
-	branch = *release
+	branch = v0.3.0
 [submodule "bixverse.plots"]
 	path = bixverse.plots
 	url = https://github.com/GregorLueg/bixverse.plots
-	branch = v0.2.5
+	branch = v0.2.6
 [submodule "genewalkR"]
 	path = genewalkR
 	url = https://github.com/GregorLueg/genewalkR
