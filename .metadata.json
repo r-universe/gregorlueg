@@ -4,15 +4,7 @@
     "releasetag": true
   },
   {
-    "package": "bixverse",
-    "releasetag": true
-  },
-  {
     "package": "bixverse.plots",
-    "releasetag": true
-  },
-  {
-    "package": "bixverse.gpu",
     "releasetag": true
   },
   {
