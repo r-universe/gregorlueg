@@ -14,6 +14,10 @@
 	path = bixverse.plots
 	url = https://github.com/GregorLueg/bixverse.plots
 	branch = v0.2.6
+[submodule "devforge"]
+	path = devforge
+	url = https://github.com/GregorLueg/devforge
+	branch = main
 [submodule "genewalkR"]
 	path = genewalkR
 	url = https://github.com/GregorLueg/genewalkR
