@@ -13,7 +13,7 @@
 [submodule "bixverse.plots"]
 	path = bixverse.plots
 	url = https://github.com/GregorLueg/bixverse.plots
-	branch = v0.2.6
+	branch = v0.2.7
 [submodule "devforge"]
 	path = devforge
 	url = https://github.com/GregorLueg/devforge
