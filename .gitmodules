@@ -21,7 +21,7 @@
 [submodule "genewalkR"]
 	path = genewalkR
 	url = https://github.com/GregorLueg/genewalkR
-	branch = v0.1.11
+	branch = v0.2.0
 [submodule "manifoldsR"]
 	path = manifoldsR
 	url = https://github.com/GregorLueg/manifoldsR
