@@ -5,7 +5,7 @@
 [submodule "bixverse"]
 	path = bixverse
 	url = https://github.com/GregorLueg/bixverse
-	branch = v0.5.2
+	branch = main
 [submodule "bixverse.gpu"]
 	path = bixverse.gpu
 	url = https://github.com/GregorLueg/bixverse.gpu
