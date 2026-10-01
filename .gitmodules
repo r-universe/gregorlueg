@@ -25,4 +25,4 @@
 [submodule "manifoldsR"]
 	path = manifoldsR
 	url = https://github.com/GregorLueg/manifoldsR
-	branch = v0.3.5
+	branch = v0.3.6
