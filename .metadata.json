@@ -6,5 +6,9 @@
   {
     "package": "bixverse.plots",
     "releasetag": true
+  },
+  {
+    "package": "annsearchR",
+    "releasetag": true
   }
 ]

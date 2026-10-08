@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/gregorlueg/gregorlueg.r-universe.dev
 	branch = HEAD
+[submodule "annsearchR"]
+	path = annsearchR
+	url = https://github.com/GregorLueg/annsearchR
+	branch = *release
 [submodule "bixverse"]
 	path = bixverse
 	url = https://github.com/GregorLueg/bixverse
