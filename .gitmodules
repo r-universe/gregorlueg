@@ -9,11 +9,11 @@
 [submodule "bixverse"]
 	path = bixverse
 	url = https://github.com/GregorLueg/bixverse
-	branch = main
+	branch = v0.8.2
 [submodule "bixverse.gpu"]
 	path = bixverse.gpu
 	url = https://github.com/GregorLueg/bixverse.gpu
-	branch = main
+	branch = v0.6.1
 [submodule "bixverse.plots"]
 	path = bixverse.plots
 	url = https://github.com/GregorLueg/bixverse.plots
@@ -21,11 +21,11 @@
 [submodule "devforge"]
 	path = devforge
 	url = https://github.com/GregorLueg/devforge
-	branch = main
+	branch = v0.0.7
 [submodule "genewalkR"]
 	path = genewalkR
 	url = https://github.com/GregorLueg/genewalkR
-	branch = main
+	branch = v0.2.3
 [submodule "manifoldsR"]
 	path = manifoldsR
 	url = https://github.com/GregorLueg/manifoldsR
