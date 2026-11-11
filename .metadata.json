@@ -1,9 +1,5 @@
 [
   {
-    "package": "manifoldsR",
-    "releasetag": true
-  },
-  {
     "package": "bixverse",
     "releasetag": true
   },
