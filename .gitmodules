@@ -9,7 +9,7 @@
 [submodule "bixverse"]
 	path = bixverse
 	url = https://github.com/GregorLueg/bixverse
-	branch = v0.9.1
+	branch = v0.9.2
 [submodule "bixverse.gpu"]
 	path = bixverse.gpu
 	url = https://github.com/GregorLueg/bixverse.gpu
